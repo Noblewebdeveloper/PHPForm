@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: blueviolet;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-size: 2rem;
+    padding: 2% 0;
+}
+form{
+    padding: 2% 5%;
+    font-family: sans-serif;
+}
+h4{
+    font-weight: normal;
+    color: red;
+}
+hr{
+    width: 90%
+}
+.input{
+    margin: 2% 0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px black;
+    width: 90%;
+}
+.output{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px black;
+}
+#submit{
+    color: white;
+    width: 90%;
+    height: 5%;
+    background-color: blueviolet;
+    border: none;
+}
